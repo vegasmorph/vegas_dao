@@ -1,1 +1,1 @@
-[https://github.com/vegasmorph/vegasdao.github.io](https://vegasmorph.github.io/vegasdao.github.io/)
+[https://github.com/vegasmorph/vegas_dao](https://vegasmorph.github.io/vegas_dao)
